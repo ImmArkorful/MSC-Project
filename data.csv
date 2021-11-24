@@ -1,0 +1,108 @@
+Timestamp,Gender,Age,Professional Role:,Highest Level of Education:,Number of years in your professional role:,Please indicate your area of expertise. ,Type of working environment:,Where is your company located? (Country),How many employees does your company have?,Projects in our company start with a sponsor user,Sponsor users stay through the project,Sponsor users are very committed throughout the project,Sponsor users have confidence in the project manager and team members,Sponsor users are involved in making schedule estimates and have realistic estimates,We have a project manager on the team for every project,Project managers on projects define the scope for projects with high accuracy,Project managers estimate the cost and time frames for projects accurately,Project managers work as a liaison between the development team and non-development team and gain stakeholders’ approval for project activities.,Project managers provide the development team with all they need to be able to deliver quality products,Project managers are able to measure project progress and control project changes accurately.,Requirements are complete and accurate at the start of the project.,The scope of the project is well defined throughout the project.,Requirements specified at the beginning of the project result in well-defined deliverables,Developers are provided with all the information they need to complete tasks given them.,Internet access is available for every member of the team.,Every single member of the team has access to a personal computer to work with.,Working equipment members use to work are high-level computers that can execute necessary tasks with ease.,Cost of projects satisfy budget.,Time taken to complete project lines up with the schedule,Project specifications and objectives are met.,Projects meet privacy obligations and regulatory compliance, if applicable.
+01/09/2021 12:08:09,Male,26–35 years,Software Developer ,Bachelor’s Degree,2-5 years,Front-end Development,Hybrid,Ghana,5-20,6,6,6,6,6,3,4,4,4,4,5,4,4,5,4,6,7,7,5,4,4,3
+01/09/2021 12:10:33,Male,26–35 years,Software Developer,Bachelor’s Degree,2-5 years,Full-stack Development,Hybrid,Ghana,5-20,1,1,1,1,2,1,1,1,1,1,1,5,5,3,3,3,6,4,2,4,6,5
+01/09/2021 12:15:11,Male,19-25 years,Software Developer,Bachelor’s Degree,Less than 1 year,Project Management,Hybrid,"Ghana",5-20,4,7,4,3,3,1,3,7,6,3,4,6,6,3,4,6,7,5,5,3,5,6
+01/09/2021 12:16:37,Male,19-25 years,Software Developer,Bachelor’s Degree,Less than 1 year,Full-stack Development,Remote,Ghana,5-20,7,7,4,4,4,7,7,7,4,6,6,4,4,4,1,7,7,7,7,7,6,5
+01/09/2021 13:41:48,Male,19-25 years,Software Developer,Bachelor’s Degree,1-2 years,Front-end Development,Hybrid,Ghana,5-20,4,4,4,4,4,6,6,5,5,5,5,5,5,5,5,6,7,6,5,5,6,6
+02/09/2021 09:35:53,Male,19-25 years,Software Developer,Bachelor’s Degree,2-5 years,Full-stack Development,Hybrid,Ghana,5-20,4,3,5,6,2,5,5,5,7,7,6,5,5,5,5,7,7,5,6,5,6,6
+02/09/2021 10:23:08,Male,26–35 years,Software Developer,Bachelor’s Degree,1-2 years,Full-stack Development,Remote,Nigeria,1-5,4,3,4,6,5,2,3,4,4,4,3,5,3,3,4,5,5,5,3,3,4,4
+02/09/2021 10:49:40,Male,19-25 years,Software Developer,Bachelor’s Degree,Less than 1 year,Front-end Development,Hybrid,Ghana,5-20,5,5,3,5,4,7,7,7,6,6,6,5,5,5,4,7,7,7,5,5,5,7
+02/09/2021 10:53:39,Male,19-25 years,Software Developer,Bachelor’s Degree,1-2 years,Full-stack Development,Hybrid,Ghana,20-100,6,6,5,6,3,7,7,5,5,7,6,3,5,5,3,7,7,7,6,7,7,6
+02/09/2021 10:58:49,Male,19-25 years,Software Developer,Bachelor’s Degree,2-5 years,Front-end Development,Hybrid,Ghana,5-20,6,5,4,5,4,6,5,5,6,6,6,5,5,6,5,6,6,6,5,6,6,5
+02/09/2021 11:08:54,Male,19-25 years,Software Developer,Bachelor’s Degree,1-2 years,Front-end Development,Hybrid,Ghana,20-100,3,1,2,5,1,6,6,5,7,5,6,3,4,5,6,7,3,2,5,4,6,7
+02/09/2021 12:18:47,Male,19-25 years,Software Developer,Bachelor’s Degree,1-2 years,Front-end Development,Office,Ghana,1-5,5,4,5,5,4,4,4,4,5,5,6,5,4,6,3,7,7,7,5,5,5,6
+02/09/2021 12:58:53,Male,19-25 years,Insurance Officer,Bachelor’s Degree,1-2 years,Front-end Development,Office,Ghana,20-100,2,2,2,3,2,4,4,3,5,3,4,3,2,3,4,7,7,1,4,3,3,6
+02/09/2021 14:50:21,Male,19-25 years,Software Developer,Bachelor’s Degree,1-2 years,Full-stack Development,Office,Ghana,20-100,7,6,6,6,5,7,7,7,6,6,7,7,6,6,7,5,7,7,4,5,6,7
+02/09/2021 15:04:55,Male,19-25 years,"Software Developer, Project Manager",Bachelor’s Degree,2-5 years,"Full-stack Development, Project Management",Office,Nigeria,100 and above,5,6,6,6,6,7,5,5,7,5,5,5,5,5,6,7,7,7,6,4,6,7
+02/09/2021 22:46:32,Male,19-25 years,Software Developer,Bachelor’s Degree,1-2 years,Front-end Development,Hybrid,Ghana,5-20,7,7,5,7,7,7,5,7,4,6,7,6,6,6,6,7,7,4,5,6,5,5
+02/09/2021 22:47:46,Male,26–35 years,Software Developer,Bachelor’s Degree,Less than 1 year,Front-end Development,Remote,Ghana,5-20,5,6,5,5,5,5,6,5,5,4,4,4,5,5,5,4,5,4,5,5,5,4
+02/09/2021 23:04:18,Male,19-25 years,Software Developer,Master’s Degree,Less than 1 year,Project Management,Office,Ghana,100 and above,6,6,6,6,7,7,6,6,6,6,6,7,6,5,6,7,6,6,6,3,6,6
+02/09/2021 23:11:26,Male,19-25 years,Teaching ,Bachelor’s Degree,1-2 years,Full-stack Development,Remote,Ghana,5-20,5,2,4,3,6,5,3,5,5,4,3,2,4,4,7,2,4,2,2,4,2,3
+03/09/2021 07:01:22,Female,19-25 years,Software Developer,Bachelor’s Degree,Less than 1 year,Back-end Development,Hybrid,Ghana,5-20,2,2,1,2,1,2,1,1,1,1,2,1,2,5,4,6,6,4,4,5,4,3
+03/09/2021 10:29:11,Male,19-25 years,Software Developer,Bachelor’s Degree,2-5 years,Full-stack Development,Hybrid,Ghana,5-20,4,4,5,5,3,5,4,4,3,3,4,4,4,4,4,6,7,7,5,3,5,4
+03/09/2021 12:39:51,Male,26–35 years,Software Developer,Bachelor’s Degree,2-5 years,Full-stack Development,Hybrid,Ghana,5-20,7,7,4,5,4,3,4,5,3,3,4,4,4,4,4,7,7,5,3,4,6,4
+03/09/2021 15:22:16,Male,26–35 years,Software Developer,Master’s Degree,2-5 years,Back-end Development,Hybrid,France,20-100,2,1,2,6,1,7,7,7,3,4,6,6,5,4,7,7,7,7,6,6,7,6
+03/09/2021 17:28:42,Male,26–35 years,Software Developer,Bachelor’s Degree,2-5 years,Front-end Development,Hybrid,Ghana,5-20,5,6,5,5,5,5,4,5,5,5,4,5,5,5,4,5,5,4,4,5,4,5
+03/09/2021 17:42:34,Prefer not to say,26–35 years,Software Developer,Bachelor’s Degree,5 years and above,Full-stack Development,Hybrid,Ghana,100 and above,6,6,7,6,5,7,7,7,7,7,7,6,6,6,5,7,7,7,7,7,7,7
+03/09/2021 18:15:00,Male,26–35 years,Software Developer,Bachelor’s Degree,2-5 years,"Back-end Development, Front-end Development",Hybrid,Ghana,100 and above,7,7,6,7,7,7,7,7,7,7,7,3,7,7,7,7,7,7,7,7,7,7
+03/09/2021 18:52:16,Male,19-25 years,Cybersecurity Analyst ,Bachelor’s Degree,Less than 1 year,Cybersecurity ,Remote,Ghana,5-20,6,6,6,6,6,1,1,1,1,1,1,7,7,7,1,7,7,7,7,7,7,7
+03/09/2021 19:32:52,Male,19-25 years,Software Developer,Bachelor’s Degree,Less than 1 year,"Back-end Development, Front-end Development, Full-stack Development",Office,Ghana,20-100,3,4,4,4,4,4,4,4,4,5,4,4,4,4,4,7,6,6,6,6,6,6
+03/09/2021 20:47:23,Male,36 years and Above,Project Manager,Master’s Degree,5 years and above,"Back-end Development, Front-end Development, Project Management",Hybrid,France,5-20,7,7,7,7,6,7,7,7,7,7,7,1,3,1,6,7,7,7,5,5,7,7
+05/09/2021 09:12:29,Male,19-25 years,Software Developer,Bachelor’s Degree,Less than 1 year,"Full-stack Development, System Administrator ",Office,Ghana,5-20,2,6,6,6,6,6,6,6,5,6,6,6,6,7,6,7,7,7,6,6,6,6
+06/09/2021 00:47:40,Male,19-25 years,"Software Developer, Project Manager",Master’s Degree,2-5 years,"Full-stack Development, Project Management",Hybrid,Ghana,1-5,5,5,6,3,5,5,4,3,4,5,3,3,5,4,5,7,7,6,6,2,4,4
+06/09/2021 16:39:52,Male,26–35 years,UI/UX designer,Bachelor’s Degree,1-2 years,UI/UX,Remote,Ghana,1-5,1,2,1,2,3,5,3,2,5,5,5,4,2,3,3,6,5,1,4,4,4,4
+06/09/2021 16:43:50,Male,19-25 years,Software Developer,Bachelor’s Degree,1-2 years,Back-end Development,Hybrid,Ghana,20-100,7,6,7,7,7,7,5,5,7,6,6,3,5,5,4,7,7,7,5,6,6,6
+06/09/2021 16:45:51,Male,19-25 years,UI/UX designer,Bachelor’s Degree,2-5 years,UI/UX,Hybrid,Ghana,100 and above,3,2,2,3,3,3,3,4,4,4,4,3,5,4,5,6,7,6,4,4,6,6
+06/09/2021 17:10:17,Male,19-25 years,Software Developer,Bachelor’s Degree,2-5 years,"Back-end Development, Front-end Development, Full-stack Development",Office,Ghana,20-100,6,4,4,2,2,5,7,7,7,6,5,5,5,5,7,7,7,7,6,6,6,6
+06/09/2021 17:20:14,Male,19-25 years,Software Developer,Master’s Degree,1-2 years,Front-end Development,Office,Ghana,20-100,2,2,2,2,2,3,3,3,3,3,3,3,3,4,3,6,6,5,3,3,5,5
+06/09/2021 17:23:26,Male,26–35 years,Software Developer,Bachelor’s Degree,2-5 years,Full-stack Development,Hybrid,Ghana,5-20,1,1,1,1,1,5,5,5,7,6,6,6,3,6,7,7,7,7,4,5,6,7
+06/09/2021 18:06:39,Male,26–35 years,Software Developer,Bachelor’s Degree,2-5 years,Back-end Development,Remote,Netherlands ,5-20,6,6,4,5,6,7,7,7,6,7,6,2,3,6,6,7,7,7,6,7,7,7
+07/09/2021 06:20:47,Male,26–35 years,Software Developer,Bachelor’s Degree,2-5 years,"Front-end Development, UI/UX",Remote,Ghana,1-5,5,4,3,5,5,5,5,4,4,5,5,5,5,5,5,6,6,6,4,3,5,3
+07/09/2021 08:19:28,Male,19-25 years,Software Developer,Bachelor’s Degree,2-5 years,"Front-end Development, Game Development ",Remote,Ghana,5-20,4,7,5,7,5,3,4,4,5,5,4,6,5,6,5,7,7,5,5,3,6,6
+07/09/2021 09:15:26,Male,19-25 years,Software Developer,Bachelor’s Degree,1-2 years,"Full-stack Development, UI/UX",Remote,USA,20-100,7,7,7,7,7,7,7,7,7,7,7,7,7,5,7,7,7,7,7,7,7,7
+07/09/2021 10:11:17,Male,26–35 years,"Software Developer, Project Manager, Digital Marketer",Bachelor’s Degree,1-2 years,"Back-end Development, Front-end Development, Project Management",Remote,Ghana,1-5,4,4,4,5,5,7,6,6,6,7,6,6,5,6,4,6,7,6,5,3,6,5
+07/09/2021 14:01:55,Male,19-25 years,Software Developer,Bachelor’s Degree,2-5 years,"Full-stack Development, UI/UX",Remote,Germany,5-20,4,3,3,5,1,7,5,5,6,6,6,5,6,6,7,7,7,7,7,6,7,7
+07/09/2021 15:10:41,Male,26–35 years,IT support,Bachelor’s Degree,2-5 years,Front-end Development,Office,Ghana,5-20,4,4,4,4,4,6,6,6,6,4,5,4,4,4,4,5,6,4,3,4,6,6
+08/09/2021 23:37:38,Male,26–35 years,Software Developer,Bachelor’s Degree,2-5 years,Full-stack Development,Remote,Ghana,5-20,3,6,5,6,6,1,4,4,4,4,4,6,6,6,6,6,6,3,4,4,6,6
+09/09/2021 09:11:15,Male,26–35 years,UI/UX designer,Bachelor’s Degree,5 years and above,UI/UX,Remote,Ghana,5-20,5,5,5,3,1,7,6,5,6,6,6,5,4,6,6,7,7,6,6,5,6,6
+09/09/2021 09:37:06,Male,26–35 years,Software Developer,Bachelor’s Degree,2-5 years,Front-end Development,Remote,USA,100 and above,6,6,5,6,3,6,5,6,6,6,6,4,6,4,4,7,7,7,5,5,6,7
+09/09/2021 14:12:03,Female,19-25 years,UI/UX designer,Master’s Degree,1-2 years,UI/UX,Hybrid,UK,5-20,7,6,7,5,4,7,6,5,7,6,7,6,7,6,7,7,7,7,5,6,6,7
+11/09/2021 00:09:33,Male,26–35 years,Project Manager,Bachelor’s Degree,1-2 years,Front-end Development,Remote,USA,5-20,5,6,6,5,6,7,5,6,6,6,7,6,5,5,6,7,7,7,4,4,4,4
+11/09/2021 00:25:20,Male,19-25 years,UI/UX designer,Bachelor’s Degree,1-2 years,"Front-end Development, UI/UX",Hybrid,Ghana,5-20,6,6,7,6,7,6,6,5,6,6,5,5,7,6,7,7,7,6,7,7,7,7
+11/09/2021 09:00:00,Male,26–35 years,Software Developer,Bachelor’s Degree,5 years and above,Back-end Development,Remote,Ghana,5-20,5,6,7,7,6,4,4,5,5,5,6,5,5,5,4,6,6,4,5,5,6,6
+12/09/2021 12:56:07,Male,26–35 years,Software Developer,Master’s Degree,5 years and above,Full-stack Development,Hybrid,Ghana,5-20,1,7,7,7,5,7,7,7,4,7,7,7,7,7,7,7,7,7,7,5,7,6
+12/09/2021 15:33:57,Male,19-25 years,"Software Developer, Project Manager",Bachelor’s Degree,1-2 years,"Full-stack Development, Project Management",Remote,Ghana,5-20,4,4,5,6,5,6,6,6,6,5,6,4,5,5,5,7,7,6,4,6,6,6
+15/09/2021 10:54:28,Male,19-25 years,"Software Developer, UI/UX designer",Bachelor’s Degree,1-2 years,"Front-end Development, UI/UX",Hybrid,Ghana,100 and above,5,5,4,6,7,3,3,1,2,5,3,6,4,6,5,7,7,6,5,3,5,5
+15/09/2021 14:41:22,Male,19-25 years,Software Developer,Bachelor’s Degree,2-5 years,"Back-end Development, Front-end Development, Full-stack Development, UI/UX",Remote,USA,20-100,6,6,6,5,6,7,7,7,7,7,7,7,7,7,7,7,7,7,7,5,6,7
+15/09/2021 15:10:07,Male,19-25 years,Software Developer,Bachelor’s Degree,2-5 years,Full-stack Development,Office,Ghana,20-100,6,4,2,6,5,6,6,6,6,5,5,3,4,4,4,4,7,6,5,6,5,5
+15/09/2021 23:06:58,Male,26–35 years,Software Developer,Bachelor’s Degree,1-2 years,Full-stack Development,Remote,USA,5-20,2,2,2,2,2,3,3,3,3,3,3,2,3,3,4,5,6,4,4,2,5,2
+16/09/2021 21:50:59,Male,26–35 years,Software Developer,HND,2-5 years,"Back-end Development, Front-end Development, Full-stack Development",Remote,USA,5-20,7,5,4,5,5,5,4,5,6,6,5,3,4,5,4,4,4,4,4,4,5,6
+16/09/2021 21:58:05,Male,19-25 years,Software Developer,Bachelor’s Degree,Less than 1 year,Back-end Development,Hybrid,Ghana,100 and above,4,5,6,5,5,5,6,5,7,6,5,5,5,5,6,6,7,6,5,4,5,6
+18/09/2021 04:25:24,Male,19-25 years,Software Developer,Bachelor’s Degree,2-5 years,Back-end Development,Remote,Ghana,20-100,3,3,3,3,2,5,6,6,7,6,6,5,6,6,7,6,6,6,5,6,6,7
+01/10/2021 16:43:19,Male,36 years and Above,Software Developer,Bachelor’s Degree,5 years and above,Full-stack Development,Office,Ghana,20-100,6,6,6,6,6,6,6,6,7,6,6,6,6,6,6,7,7,7,5,5,6,7
+02/10/2021 02:44:09,Male,26–35 years,UI/UX designer,Bachelor’s Degree,2-5 years,UI/UX,Remote,Ghana,1-5,4,1,2,3,3,1,3,3,3,3,3,4,4,4,4,5,5,5,2,3,3,6
+03/10/2021 10:29:13,Male,26–35 years,Project Manager,Bachelor’s Degree,5 years and above,Project Management,Hybrid,Ghana,20-100,5,7,7,7,6,7,7,7,7,7,7,7,7,6,7,7,6,7,7,6,6,7
+03/10/2021 10:36:09,Male,19-25 years,Software Developer,Bachelor’s Degree,1-2 years,Front-end Development,Remote,Ghana,5-20,5,7,6,7,6,7,6,5,7,7,7,7,7,6,7,7,7,7,7,6,7,7
+03/10/2021 10:39:51,Female,19-25 years,UI/UX designer,Bachelor’s Degree,1-2 years,UI/UX,Remote,Ghana,20-100,5,6,6,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,5,6,7
+03/10/2021 10:40:55,Male,19-25 years,Software Developer,Master’s Degree,2-5 years,Full-stack Development,Remote,Germany,5-20,6,6,6,7,4,7,6,5,7,5,6,6,6,6,6,7,7,5,7,5,6,7
+03/10/2021 10:45:12,Female,19-25 years,Project Manager,Master’s Degree,2-5 years,Project Management,Remote,UK,20-100,7,7,7,7,6,5,5,6,7,6,5,7,5,6,6,7,7,7,6,7,7,5
+03/10/2021 10:48:06,Male,26–35 years,Software Developer,Master’s Degree,2-5 years,"Back-end Development, Full-stack Development",Office,Ghana,20-100,6,7,7,6,7,7,6,6,7,7,7,7,7,6,7,7,7,7,7,6,7,7
+03/10/2021 10:48:14,Male,36 years and Above,"Software Developer, Project Manager",Ph.D./Doctorate,5 years and above,"Full-stack Development, Project Management",Hybrid,UK,100 and above,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+03/10/2021 10:55:59,Male,26–35 years,UI/UX designer,Bachelor’s Degree,2-5 years,UI/UX,Remote,Ghana,1-5,7,7,7,7,6,1,2,2,2,2,2,7,6,6,7,6,6,6,6,6,6,6
+03/10/2021 10:57:31,Female,19-25 years,UI/UX designer,Master’s Degree,1-2 years,UI/UX,Remote,France,20-100,5,5,6,7,4,6,5,6,6,5,5,5,5,4,7,7,7,3,6,6,6,6
+03/10/2021 11:01:55,Male,26–35 years,"Software Developer, Project Manager",Bachelor’s Degree,2-5 years,"Back-end Development, Project Management",Office,Spain,20-100,6,5,4,6,7,6,5,5,6,7,7,7,7,7,7,6,6,5,6,6,6,7
+03/10/2021 11:08:53,Male,19-25 years,Software Developer,Bachelor’s Degree,2-5 years,Front-end Development,Remote,Ghana,5-20,6,6,4,3,6,7,5,6,4,6,7,7,7,5,5,5,6,5,7,7,6,6
+03/10/2021 11:15:05,Male,26–35 years,Software Developer,Master’s Degree,5 years and above,Front-end Development,Office,USA,20-100,4,4,4,4,4,6,6,5,7,5,7,6,6,5,5,6,7,5,6,4,6,7
+03/10/2021 23:35:07,Female,19-25 years,Project Manager,Master’s Degree,2-5 years,Project Management,Office,Nigeria,5-20,5,4,3,6,7,5,6,5,6,6,6,7,5,6,5,7,5,7,6,6,6,6
+04/10/2021 00:03:12,Male,26–35 years,UI/UX designer,Bachelor’s Degree,1-2 years,UI/UX,Remote,Ghana,1-5,7,7,6,7,6,6,6,5,6,7,6,6,6,6,6,7,6,6,7,6,6,6
+04/10/2021 00:05:46,Male,19-25 years,Software Developer,Bachelor’s Degree,2-5 years,Full-stack Development,Remote,Ghana,5-20,5,6,4,3,6,6,5,6,4,4,4,6,6,6,6,6,6,6,5,4,4,4
+04/10/2021 00:08:14,Male,19-25 years,Software Developer,Master’s Degree,2-5 years,Project Management,Office,Ghana,5-20,6,6,6,6,6,6,7,6,6,7,6,6,6,5,5,7,7,7,7,5,6,6
+04/10/2021 00:12:41,Female,26–35 years,Project Manager,Bachelor’s Degree,5 years and above,Front-end Development,Remote,Ghana,5-20,6,6,4,5,5,5,6,6,6,6,5,6,5,6,6,7,7,7,6,5,6,6
+04/10/2021 00:16:36,Male,19-25 years,Project Manager,Master’s Degree,2-5 years,"Project Management, UI/UX",Office,Germany,5-20,5,5,6,6,6,4,5,6,6,5,4,7,7,7,7,6,6,5,7,5,7,7
+04/10/2021 00:32:25,Male,19-25 years,UI/UX designer,Bachelor’s Degree,2-5 years,UI/UX,Hybrid,Pakistan,20-100,7,6,6,7,6,6,7,6,5,7,6,7,6,7,6,7,7,7,7,6,6,7
+04/10/2021 12:20:39,Male,26–35 years,Software Developer,Bachelor’s Degree,2-5 years,Front-end Development,Remote,Ghana,1-5,4,5,4,5,3,3,5,4,4,4,5,4,4,4,4,7,7,6,2,1,5,3
+04/10/2021 12:25:48,Prefer not to say,36 years and Above,Project Manager,Master’s Degree,5 years and above,Full-stack Development,Hybrid,Ghana,20-100,6,5,6,5,6,3,4,4,4,5,5,2,3,5,6,6,4,5,4,5,3,5
+04/10/2021 13:33:14,Male,26–35 years,Software Developer,Bachelor’s Degree,2-5 years,Back-end Development,Office,Ghana,100 and above,6,6,6,6,6,5,6,5,6,6,5,6,6,5,6,6,6,4,6,5,6,5
+04/10/2021 13:37:46,Male,36 years and Above,Software Developer,Ph.D./Doctorate,5 years and above,Full-stack Development,Hybrid,"USA",5-20,6,5,6,5,6,6,7,6,7,6,7,6,6,6,6,6,7,7,6,3,6,5
+04/10/2021 13:44:01,Prefer not to say,26–35 years,UI/UX designer,Bachelor’s Degree,2-5 years,"Front-end Development, UI/UX",Hybrid,Ghana,1-5,5,6,4,7,7,6,7,6,6,6,6,3,4,4,6,6,6,7,7,7,7,7
+04/10/2021 13:50:35,Prefer not to say,26–35 years,Software Developer,Bachelor’s Degree,2-5 years,Project Management,Office,Ghana,5-20,7,7,6,6,7,6,7,6,5,5,6,7,7,6,6,7,7,7,6,6,7,7
+04/10/2021 13:54:24,Female,18 years and below,UI/UX designer,Bachelor’s Degree,1-2 years,"Front-end Development, UI/UX",Office,Ghana,1-5,7,6,6,5,5,5,6,6,5,6,5,7,7,6,6,7,7,7,7,7,7,7
+04/10/2021 21:12:00,Female,19-25 years,UI/UX designer,Bachelor’s Degree,1-2 years,"Front-end Development, UI/UX",Office,Ghana,5-20,5,4,3,4,5,4,4,4,5,4,5,4,5,4,5,6,6,4,4,4,4,4
+04/10/2021 21:14:38,Male,36 years and Above,Project Manager,Ph.D./Doctorate,5 years and above,Project Management,Office,Kenya,20-100,5,4,5,3,5,5,5,4,4,4,4,5,4,5,4,6,5,4,4,4,4,4
+04/10/2021 21:17:20,Female,19-25 years,Software Developer,Bachelor’s Degree,1-2 years,Back-end Development,Hybrid,Ethiopia,5-20,5,4,5,4,5,5,5,4,3,3,4,5,4,4,5,7,6,6,6,3,6,4
+04/10/2021 21:20:30,Female,19-25 years,UI/UX designer,Bachelor’s Degree,Less than 1 year,"Front-end Development, UI/UX",Remote,Nigeria,1-5,6,5,5,5,4,4,4,5,4,5,5,3,6,4,5,5,6,4,6,4,5,5
+04/10/2021 21:25:38,Prefer not to say,18 years and below,UI/UX designer,WASSCE,Less than 1 year,Front-end Development,Remote,Ghana,1-5,4,3,2,2,3,3,3,4,4,4,5,4,5,4,5,4,4,4,4,5,6,5
+05/10/2021 19:35:15,Female,26–35 years,Project Manager,Bachelor’s Degree,2-5 years,Project Management,Hybrid,UK,20-100,6,5,7,7,7,7,7,7,7,7,7,5,7,7,7,7,7,7,7,7,7,7
+05/10/2021 20:16:17,Male,26–35 years,Secretary ,Bachelor’s Degree,1-2 years,Research,Office,Ghana,20-100,6,7,7,6,5,7,6,6,6,5,5,6,6,5,4,5,4,4,7,3,4,4
+05/10/2021 20:51:08,Male,26–35 years,UI/UX designer,Bachelor’s Degree,1-2 years,UI/UX,Office,Ghana,20-100,6,6,5,7,6,7,6,6,6,7,6,6,6,6,7,6,5,5,6,5,6,6
+05/10/2021 21:45:28,Male,19-25 years,Software Developer,Bachelor’s Degree,1-2 years,Back-end Development,Remote,Ghana,5-20,5,5,5,5,5,6,6,6,6,6,6,7,7,7,7,7,7,7,6,6,6,6
+05/10/2021 22:06:58,Male,26–35 years,Software Developer,Bachelor’s Degree,5 years and above,"Back-end Development, Front-end Development, Full-stack Development, Project Management",Remote,Ghana,100 and above,3,3,4,4,4,6,3,5,5,6,5,7,7,6,7,7,7,5,4,6,5,4
+05/10/2021 22:08:23,Male,19-25 years,Project Manager,Bachelor’s Degree,1-2 years,Project Management,Hybrid,Ghana,1-5,3,3,4,5,1,6,7,6,6,5,5,5,6,5,5,7,7,5,7,3,5,6
+06/10/2021 09:48:13,Male,26–35 years,Software Developer,Bachelor’s Degree,1-2 years,Front-end Development,Hybrid,Ghana,5-20,2,3,2,2,2,2,2,1,3,2,3,5,4,5,3,6,4,4,4,3,2,5
+06/10/2021 09:52:57,Female,19-25 years,Project Manager,Bachelor’s Degree,2-5 years,Project Management,Remote,UK,5-20,5,6,6,5,4,5,6,5,4,5,4,5,6,5,5,6,6,6,6,6,6,6
+06/10/2021 09:55:58,Male,26–35 years,"Software Developer, Project Manager, UI/UX designer",Ph.D./Doctorate,5 years and above,"Full-stack Development, Project Management, UI/UX",Hybrid,USA,20-100,6,7,6,7,7,5,6,5,7,7,6,6,5,7,6,7,6,7,7,7,7,7
+06/10/2021 10:01:27,Male,26–35 years,UI/UX designer,Master’s Degree,2-5 years,UI/UX,Office,Germany,5-20,6,5,5,4,4,5,4,5,6,6,6,6,5,5,4,6,7,6,6,5,6,6
+10/10/2021 02:21:48,Male,19-25 years,UI/UX designer,Bachelor’s Degree,2-5 years,UI/UX,Remote,USA,5-20,5,5,5,5,6,5,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+11/10/2021 09:02:33,Male,19-25 years,Software Developer,Bachelor’s Degree,1-2 years,"Front-end Development, UI/UX",Hybrid,Ghana,20-100,5,5,7,7,7,7,7,7,6,7,5,4,5,6,6,7,7,7,6,5,6,7
+12/10/2021 15:18:36,Male,26–35 years,Entomologist ,Master’s Degree,Less than 1 year,Field and storage research ,Remote,Ghana,1-5,1,1,6,7,7,4,4,5,5,4,5,7,7,7,7,5,4,3,3,5,5,7
+12/10/2021 21:28:31,Male,19-25 years,Software Developer,Bachelor’s Degree,1-2 years,Front-end Development,Remote,Ghana,1-5,4,5,5,5,5,5,5,5,5,4,4,4,4,5,4,4,3,4,4,5,6,6
